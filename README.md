@@ -1,2 +1,2 @@
 # Database-Project
-A database system for calculating university admission merit and predicting degree eligibility
+A logistics and ticketing system for massive sporting events. It manages crowd flow, shuttle and metro routes, stadium capacities, vendors, and dynamic ticket pricing.
